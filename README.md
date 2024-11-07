@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Sk Nazibul Hossain & Working on to become 100xdevs. I'm from India, living in Bengaluru.
 
 <!--
 **nazibul7/nazibul7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
