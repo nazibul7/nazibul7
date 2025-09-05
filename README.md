@@ -3,7 +3,7 @@ My name is Sk Nazibul Hossain & Working on to become 100xdevs. I'm from India, l
 
 🔧 Technologies & Tools
 
-React ,JavaScript, TypeScript, ExpressJs, AWS,PostgreSql, MongoDB
+NextJs, React, JavaScript, TypeScript, C, ExpressJs, AWS, PostgreSql, MongoDB
 <!--
 **nazibul7/nazibul7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
