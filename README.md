@@ -14,6 +14,7 @@ I’m a full-stack developer based in Bengaluru, India, with 2 years of experien
 
 ### 🌱 Currently Learning
 - **System Design**
+- **Golang**
 - **DevOps**
 
 ### 👯 Open to Collaborate On
