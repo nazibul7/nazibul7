@@ -1,6 +1,6 @@
 # Hi there, I'm Nazibul 👋
 
-**Full Stack Developer | Open Source Contributor | Building in Public**
+**Backend-Focused Full Stack Developer | Open Source Contributor | Building in Public**
 
 I’m a full-stack developer based in Bengaluru, India, with 2 years of experience building scalable web applications and contributing to open-source projects. Passionate about clean code, modern architectures, and continuously improving my skills through hands-on projects and community learning.
 
@@ -41,6 +41,7 @@ I’m a full-stack developer based in Bengaluru, India, with 2 years of experien
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
