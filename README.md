@@ -1,29 +1,62 @@
 # Hi there, I'm Nazibul 👋
-
 **Backend-Focused Full Stack Developer | Open Source Contributor | Building in Public**
-
-I’m a full-stack developer based in Bengaluru, India, with 2 years of experience building scalable web applications and contributing to open-source projects. Passionate about clean code, modern architectures, and continuously improving my skills through hands-on projects and community learning.
-
----
 
 ## 🚀 About Me
 
-### 🔭 Currently Working On
-- Full-stack projects with **Next.js** and **TypeScript**
-- Building **TurboProxy** (currently at **v3**), a multithreaded proxy server in **C** — previous **v1** and **v2** completed
+Backend-focused developer passionate about distributed systems, networking, and scalable backend architecture.
 
-### 🌱 Currently Learning
-- **System Design**
-- **Golang**
-- **DevOps**
+Currently building:
 
-### 👯 Open to Collaborate On
-- **Open Source Projects**
+* **Banking API** — a Go backend focused on transactions, idempotency, and production-grade architecture.
+* **gRPC Microservices** — exploring service communication, Protocol Buffers, and distributed system patterns.
+* **TurboProxy** — a high-performance HTTP proxy server in C, evolving through multiple versions with thread pools, epoll, and caching.
 
-### 💡 Interests
-- **Backend Architecture**
-- **Database Optimization**
-- **Cloud Infrastructure**
+My interests include:
+
+* Backend Engineering
+* System Design
+* Distributed Systems
+* Database Design & Optimization
+* Linux & Network Programming
+* Cloud Infrastructure
+
+## ⭐ Featured Projects
+
+
+### Banking API
+
+Production-inspired banking backend written in Go.
+
+**Highlights**
+
+* PostgreSQL
+* Transaction management
+* Idempotency support
+* Layered architecture
+* REST API design
+
+### gRPC CRUD Service
+
+A microservice built using Go and gRPC.
+
+**Highlights**
+
+* Protocol Buffers
+* Unary RPCs
+* Service layer architecture
+* Repository pattern
+
+### TurboProxy
+
+A high-performance HTTP proxy server written in C.
+
+**Highlights**
+
+* Multi-threaded architecture
+* epoll-based event handling
+* Request parsing from scratch
+* LRU caching
+* Performance benchmarking
 
 ### 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-nazibul-hossain-7493b11b1/)
